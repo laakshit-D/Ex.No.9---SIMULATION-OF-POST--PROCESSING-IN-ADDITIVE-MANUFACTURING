@@ -46,7 +46,7 @@ System - Windows 7 or higher, 1 GB RAM.
 ![2](https://github.com/laakshit-D/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559976/1b53f578-1e24-4ae2-9f94-91b73ad439d0)
 ![3](https://github.com/laakshit-D/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559976/4df44667-c6c4-4650-a9f4-89784dd50e08)
 
-Name:Laakshit D
-Register Number:212222230071
+Name: Laakshit D
+Register Number: 212222230071
 ### Result: 
 Thus the simulation on the Postprocessing in additive manufacturing is completed.
